@@ -5,7 +5,7 @@ import requests
 from streamlit_lottie import st_lottie
 
 
-st.set_page_config(page_title="Crop Recommender System", layout="wide")
+st.set_page_config(page_title="Smart Agriculture System", layout="wide")
 
 # --- Important Functions ---
 def load_url(url):
