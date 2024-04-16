@@ -40,12 +40,14 @@ def main():
       st.write("Data Source: Crop Recommendation Dataset Kaggle")
       st.write("This dataset contains 2200 datapoints")
       st.write('Model Accuracy: 98%')
-      st.write("This Project was created for Sandip Foundation MiniProject by")
+      st.write("This Project was created for  by")
       st.write("Jayesh Sonawane")
       st.write("Pratik Rane")
       st.write('Sunil Janrao')
+      st.write("Guided by: Prof.Priyanka Bhatambarekar")
+      st.write("HOD of E&TC: Dr.Gayatri M. Phade ")
       
-      st.header('---Scroll down to test the model---')
+      st.header('Scroll down to test the model:')
 
     with c2:
       st_lottie(farmer, height=650, key="farmer")
@@ -57,7 +59,7 @@ def main():
       st.header("Enter your crop details:")
       # -- Time to take user input --
       # our model takes 7 parameters so we need 7 input fields
-
+      st.write('For Nutrients refer (https://soilhealth.dac.gov.in/piechart)')
       n = st.number_input("Nitrogen Level of Your field", min_value=0.0, max_value=100.0)
       p = st.number_input("Phosphorus Level of Your field", min_value=0.0, max_value=100.0)
       k = st.number_input("Potassium Level of Your field", min_value=0.0, max_value=100.0)
