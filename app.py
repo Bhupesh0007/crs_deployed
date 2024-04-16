@@ -40,10 +40,12 @@ def main():
       st.write("Data Source: Crop Recommendation Dataset Kaggle")
       st.write("This dataset contains 2200 datapoints")
       st.write('Model Accuracy: 98%')
-      st.write("This Project was created for Sandip Foundation MiniProject")
-      st.write("")
-      st.write("")
-      st.write('---Scroll down to test the model---')
+      st.write("This Project was created for Sandip Foundation MiniProject by")
+      st.write("Jayesh Sonawane")
+      st.write("Pratik Rane")
+      st.write('Sunil Janrao')
+      
+      st.header('---Scroll down to test the model---')
 
     with c2:
       st_lottie(farmer, height=650, key="farmer")
