@@ -52,7 +52,7 @@ def main():
     col1, col2 = st.columns((1, 1))
     with col1:
 
-      st.header("Have Fun :smile:")
+      st.header("Enter your crop details:")
       # -- Time to take user input --
       # our model takes 7 parameters so we need 7 input fields
 
