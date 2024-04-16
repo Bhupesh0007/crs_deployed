@@ -40,12 +40,14 @@ def main():
       st.write("Data Source: Crop Recommendation Dataset Kaggle")
       st.write("This dataset contains 2200 datapoints")
       st.write('Model Accuracy: 98%')
-      st.write("This Project was created for  by")
-      st.write("Jayesh Sonawane")
-      st.write("Pratik Rane")
-      st.write('Sunil Janrao')
+      st.write("This Project was created by")
+      st.write('[Jayesh Sonawane](https://www.linkedin.com/in/jayesh-sonawane-a2268323b/)')
+      st.write('[Pratik Rane](https://www.linkedin.com/in/ranepratikk)')
+      st.write('[Sunil Janrao](https://www.linkedin.com/in/sunil-janrao-22a685237)')
       st.write("Guided by: Prof.Priyanka Bhatambarekar")
-      st.write("HOD of E&TC: Dr.Gayatri M. Phade ")
+      st.write("Project Coordinator: Dr.Minal V. Gade ")
+      st.write('HOD of E&TC: [Dr.Gayatri M. Phade](https://www.linkedin.com/in/dr-gayatri-phade-b8920545)')
+      
       
       st.header('Scroll down to test the model:')
 
