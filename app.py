@@ -16,7 +16,7 @@ def load_url(url):
 
 # Animation Assests
 plant = load_url("https://assets9.lottiefiles.com/packages/lf20_xd9ypluc.json")
-farmer = load_url("https://assets7.lottiefiles.com/packages/lf20_sgn7zslb.json")
+farmer = load_url("https://lottie.host/df59e7d2-b12a-4b5d-a1ee-3e076735e979/pPzJ8mYtRu.json")
 
 
 # --- Load The Model ---
