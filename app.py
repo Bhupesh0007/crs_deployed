@@ -36,7 +36,7 @@ def main():
   with st.container():
     c1, c2 = st.columns((1, 1.5))
     with c1:
-      st.title("Crop Recommender System")
+      st.title("Smart Agriculture System")
       st.write("Data Source: Crop Recommendation Dataset Kaggle")
       st.write("This dataset contains 2200 datapoints")
       st.write('Model Accuracy: 98%')
