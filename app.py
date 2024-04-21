@@ -49,8 +49,7 @@ def main():
       st.write('HOD of E&TC: [Dr.Gayatri M. Phade](https://www.linkedin.com/in/dr-gayatri-phade-b8920545)')
       
       
-      st.header('Scroll down to test the model:')
-
+      
     with c2:
       st_lottie(farmer, height=650, key="farmer")
 
